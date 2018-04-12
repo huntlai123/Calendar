@@ -1,0 +1,5 @@
+Dentist Appointment,1/28/2018,9:00,10:45
+School,1/28/2018,11:00,12:00
+Doctor's Appointment,2/21/2018,10:30,11:30
+Extra Event 1,4/20/2018,14:00,19:00
+Extra Event 2,11/12/2018,9:00,16:00
